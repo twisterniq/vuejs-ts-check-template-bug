@@ -1,0 +1,9 @@
+{
+  "name": "vuejs-ts-check-template-bug",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "vue": "3.5.9"
+  }
+}
